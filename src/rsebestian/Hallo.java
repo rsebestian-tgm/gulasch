@@ -17,5 +17,7 @@ public class Hallo {
 	public void helloName(){
 		System.out.println("Hallo " + getN());
 	}
-	
+	public void byeName(){
+		System.out.println("Tschüss " + getN());
+	}
 }
