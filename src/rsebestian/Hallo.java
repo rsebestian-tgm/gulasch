@@ -18,6 +18,6 @@ public class Hallo {
 		System.out.println("Hallo " + getN());
 	}
 	public void byeName(){
-		System.out.println("Tschüss " + getN());
+		System.out.println("Tschüss " + getN() + " und auf nimmerwiedersehen");
 	}
 }
