@@ -15,9 +15,9 @@ public class Hallo {
 	}
 	
 	public void helloName(){
-		System.out.println("Hallo " + getN());
+		System.out.println("Hallo " + getN() + " du siehst aber furchtbar aus!");
 	}
 	public void byeName(){
-		System.out.println("Tschüss " + getN() + " und auf nimmerwiedersehen");
+		System.out.println("Tschüss " + getN() + " und auf nimmerwiedersehen!");
 	}
 }
