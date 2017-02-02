@@ -17,5 +17,8 @@ public class Hallo {
 	public void helloName(){
 		System.out.println("Hallo " + getN());
 	}
+	public void witzName(){
+		System.out.println("Wer geht über die Straße? \nNatürlich " + getN());
+	}
 	
 }
