@@ -15,7 +15,7 @@ public class Hallo {
 	}
 	
 	public void helloName(){
-		System.out.println("Hallo " + getN() + " ich erzähle dir mal nen Witz");
+		System.out.println("Hallo " + getN() + " ich erzähle dir mal nen Witz \nAuch wen du keine Lust dazu hast :P!");
 	}
 	public void witzName(){
 		System.out.println("Wer geht über die Straße? \nNatürlich " + getN() + "\n\n Lustig was ?");
