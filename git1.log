@@ -1,0 +1,61 @@
+commit 37d7cd65aad1de9660b0a8ad29815934405f0164
+Author: Vetula_Mortem <renesebestian@gmail.com>
+Date:   Thu Feb 2 15:04:08 2017 +0100
+
+    gitignore bearbeitet
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit e2d94029bd2af25724a35813e1647676117dfcde
+Author: Vetula_Mortem <renesebestian@gmail.com>
+Date:   Thu Feb 2 14:52:28 2017 +0100
+
+    :P
+
+ src/rsebestian/Hallo.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit bbcb712ae0e61effb978835adf6c8fcc66a0fa1d
+Author: Vetula_Mortem <renesebestian@gmail.com>
+Date:   Thu Feb 2 14:50:40 2017 +0100
+
+    Lustig was ? XD
+
+ src/rsebestian/Hallo.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit faf2cd4a073e5ecec6a2b015cfde12962a991bc4
+Author: Vetula_Mortem <renesebestian@gmail.com>
+Date:   Thu Feb 2 14:49:47 2017 +0100
+
+    Witz anrede
+
+ src/rsebestian/Hallo.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 846e553575087648e56b32ffeca84e3829fc0856
+Author: Vetula_Mortem <renesebestian@gmail.com>
+Date:   Thu Feb 2 14:42:03 2017 +0100
+
+    Version 1.1
+    
+    witzName hinzugefügt.
+
+ src/rsebestian/Hallo.java | 3 +++
+ src/rsebestian/Main.java  | 1 +
+ 2 files changed, 4 insertions(+)
+
+commit 6effd75e27336deac631e8b103df6b79c9be5882
+Author: Vetula_Mortem <renesebestian@gmail.com>
+Date:   Thu Feb 2 14:34:31 2017 +0100
+
+    Version 0
+
+ .classpath                           |  6 ++++++
+ .gitignore                           |  1 +
+ .project                             | 17 +++++++++++++++++
+ .settings/org.eclipse.jdt.core.prefs | 11 +++++++++++
+ src/rsebestian/Hallo.java            | 21 +++++++++++++++++++++
+ src/rsebestian/Main.java             | 11 +++++++++++
+ 6 files changed, 67 insertions(+)
